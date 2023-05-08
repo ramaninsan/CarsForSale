@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Car Playground</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="get_yours_now">Get your\'s now</string>
+    <string name="tacomo_2021">Tacoma 2021</string>
+
+    <string name="price">Price: </string>
+    <string name="filters">Filters</string>
+    <string name="pros">Pros:</string>
+    <string name="cons">Cons:</string>
+    <string name="reset">Reset</string>
+</resources>
